@@ -1,0 +1,555 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotations>
+  <version>1.1</version>
+  <meta>
+    <task>
+      <id>671052</id>
+      <name>fish_keypoint_task</name>
+      <size>84</size>
+      <mode>annotation</mode>
+      <overlap>0</overlap>
+      <bugtracker></bugtracker>
+      <created>2024-05-13 14:44:25.692204+00:00</created>
+      <updated>2024-05-13 23:27:16.241535+00:00</updated>
+      <subset>default</subset>
+      <start_frame>0</start_frame>
+      <stop_frame>83</stop_frame>
+      <frame_filter></frame_filter>
+      <segments>
+        <segment>
+          <id>852579</id>
+          <start>0</start>
+          <stop>83</stop>
+          <url>https://app.cvat.ai/api/jobs/850906</url>
+        </segment>
+      </segments>
+      <owner>
+        <username>dilek</username>
+        <email>dilekgl47@gmail.com</email>
+      </owner>
+      <assignee></assignee>
+      <labels>
+        <label>
+          <name>fish</name>
+          <color>#e06080</color>
+          <type>any</type>
+          <attributes>
+          </attributes>
+        </label>
+      </labels>
+    </task>
+    <dumped>2024-05-14 16:39:01.671285+00:00</dumped>
+  </meta>
+  <image id="0" name="1-11_jpg.rf.fa319c36f829ac3f3ac46b7be3103676.jpg" width="640" height="640">
+    <points label="fish" source="manual" occluded="0" points="245.21,327.68;261.70,312.29;257.31,305.69;307.89,257.31;373.87,288.10;406.86,250.71;393.66,299.09;409.06,341.98;379.37,313.39;315.59,347.48" z_order="0">
+    </points>
+    <box label="fish" source="manual" occluded="0" xtl="228.03" ytl="235.52" xbr="418.23" ybr="358.03" z_order="0">
+    </box>
+  </image>
+  <image id="1" name="1-15_jpg.rf.ad887262a9b89adc514f79ba591e7442.jpg" width="640" height="640">
+    <points label="fish" source="manual" occluded="0" points="393.66,429.95;373.87,403.56;374.97,390.36;301.29,319.99;182.53,370.57;122.05,306.79;141.84,388.16;125.35,453.04;186.93,402.46;282.60,460.74" z_order="0">
+    </points>
+    <box label="fish" source="manual" occluded="0" xtl="107.63" ytl="294.67" xbr="404.50" ybr="469.98" z_order="0">
+    </box>
+  </image>
+  <image id="2" name="1-21_jpg.rf.f1dba8c859463dcc4882f6a6a7ca4526.jpg" width="640" height="640">
+    <box label="fish" source="manual" occluded="0" xtl="181.56" ytl="228.13" xbr="390.77" ybr="384.44" z_order="0">
+    </box>
+    <points label="fish" source="manual" occluded="0" points="380.47,325.48;358.47,302.39;362.87,292.49;308.99,240.81;235.31,293.59;193.53,261.70;207.82,311.19;201.22,360.67;236.41,323.28;300.19,354.08" z_order="0">
+    </points>
+  </image>
+  <image id="3" name="1-2_jpg.rf.83fcfa42f20c227cc7d3f6baeca1b919.jpg" width="640" height="640">
+    <box label="fish" source="manual" occluded="0" xtl="299.95" ytl="248.20" xbr="555.52" ybr="463.64" z_order="0">
+    </box>
+    <points label="fish" source="manual" occluded="0" points="311.19,317.79;324.38,311.19;332.08,306.79;385.97,268.30;486.03,349.68;534.42,308.99;514.63,374.97;521.22,442.05;481.64,379.37;376.07,396.96" z_order="0">
+    </points>
+  </image>
+  <image id="4" name="1-31_jpg.rf.ea210e62cf84245337b2035e1563b9bd.jpg" width="640" height="640">
+    <points label="fish" source="manual" occluded="0" points="318.89,363.97;336.48,341.98;341.98,338.68;411.26,290.30;490.43,337.58;537.72,305.69;524.52,355.18;530.02,401.36;488.23,362.87;411.26,400.26" z_order="0">
+    </points>
+    <box label="fish" source="manual" occluded="0" xtl="308.40" ytl="274.60" xbr="553.41" ybr="422.46" z_order="0">
+    </box>
+  </image>
+  <image id="5" name="1-39_jpg.rf.79f5a31b57f1e3a53f70bd3bba74449b.jpg" width="640" height="640">
+    <box label="fish" source="manual" occluded="0" xtl="38.03" ytl="142.59" xbr="567.14" ybr="322.13" z_order="0">
+    </box>
+    <points label="fish" source="manual" occluded="0" points="547.62,246.31;504.73,213.32;506.93,196.82;357.37,150.64;173.73,201.22;52.77,161.64;82.46,221.02;61.57,278.20;166.03,239.71;358.47,308.99" z_order="0">
+    </points>
+  </image>
+  <image id="6" name="1-41_jpg.rf.f85e1bc778bad3036abce351891913eb.jpg" width="640" height="640">
+    <points label="fish" source="manual" occluded="0" points="120.95,328.78;156.14,313.39;156.14,297.99;301.29,228.71;450.85,284.80;531.12,240.81;516.82,308.99;538.82,367.27;458.54,330.98;292.49,378.27" z_order="0">
+    </points>
+    <box label="fish" source="manual" occluded="0" xtl="101.40" ytl="155.26" xbr="555.52" ybr="439.35" z_order="0">
+    </box>
+  </image>
+  <image id="7" name="1-44_jpg.rf.7b52c3c7b112182adcd804ec6f605639.jpg" width="640" height="640">
+    <points label="fish" source="manual" occluded="0" points="609.20,521.22;578.41,483.83;576.21,469.54;422.25,372.77;274.90,435.45;206.72,369.47;211.12,469.54;183.63,535.52;272.70,492.63;424.45,543.22" z_order="0">
+    </points>
+    <box label="fish" source="manual" occluded="0" xtl="172.16" ytl="343.25" xbr="624.17" ybr="574.53" z_order="0">
+    </box>
+  </image>
+  <image id="8" name="1-48_jpg.rf.c4e406821e599ee6a675750d2c05cbd0.jpg" width="640" height="640">
+    <box label="fish" source="manual" occluded="0" xtl="109.85" ytl="122.52" xbr="565.03" ybr="401.33" z_order="0">
+    </box>
+    <points label="fish" source="manual" occluded="0" points="120.95,345.28;172.63,319.99;174.83,293.59;312.29,219.92;470.64,284.80;553.11,262.80;543.22,317.79;547.61,363.97;475.04,329.88;323.28,385.97" z_order="0">
+    </points>
+  </image>
+  <image id="9" name="1-58_jpg.rf.1d85b7179c4a3e6a44872d2da33e5278.jpg" width="640" height="640">
+    <box label="fish" source="manual" occluded="0" xtl="123.58" ytl="211.23" xbr="618.89" ybr="496.38" z_order="0">
+    </box>
+    <points label="fish" source="manual" occluded="0" points="136.34,416.76;169.33,394.76;191.30,371.70;307.89,284.80;489.33,351.88;601.50,326.58;579.50,377.17;598.20,417.86;497.03,400.26;323.28,469.54" z_order="0">
+    </points>
+  </image>
+  <image id="10" name="1-6_jpg.rf.9b619837b420b4ea0e5981d5e7bbd909.jpg" width="640" height="640">
+    <points label="fish" source="manual" occluded="0" points="101.40,410.84;162.65,350.64;158.43,312.62;284.11,189.06;439.35,285.16;549.19,196.45;502.72,311.56;535.46,425.62;443.58,341.14;310.51,448.86" z_order="0">
+    </points>
+    <box label="fish" source="manual" occluded="0" xtl="89.78" ytl="168.99" xbr="595.66" ybr="475.26" z_order="0">
+    </box>
+  </image>
+  <image id="11" name="1-9_jpg.rf.e5e049023097eafde140ef88c021a229.jpg" width="640" height="640">
+    <points label="fish" source="manual" occluded="0" points="256.65,329.52;287.27,304.17;293.61,281.99;371.76,208.07;488.99,332.69;569.25,276.71;523.84,363.31;541.80,466.81;477.37,370.71;359.09,408.73" z_order="0">
+    </points>
+    <box label="fish" source="manual" occluded="0" xtl="241.86" ytl="188.00" xbr="580.87" ybr="491.10" z_order="0">
+    </box>
+  </image>
+  <image id="12" name="101jpg-transformed_jpeg_jpg.rf.fea351261a9e08d38ebe24036d8e36c8.jpg" width="640" height="640">
+    <box label="fish" source="manual" occluded="0" xtl="29.58" ytl="181.66" xbr="593.54" ybr="475.26" z_order="0">
+    </box>
+    <points label="fish" source="manual" occluded="0" points="578.76,364.37;533.35,308.40;532.29,287.27;379.16,194.34;164.77,307.34;42.26,303.12;67.60,341.14;42.26,405.56;160.54,374.93;377.04,463.64" z_order="0">
+    </points>
+  </image>
+  <image id="13" name="105jpg-transformed_jpeg_jpg.rf.e295b5d8bccf4e1a4c5839f120451dab.jpg" width="640" height="640">
+    <points label="fish" source="manual" occluded="0" points="52.82,361.20;113.02,277.77;121.47,242.92;257.70,84.50;483.71,333.74;619.95,294.67;579.82,398.17;606.22,538.63;483.71,439.35;275.66,577.70" z_order="0">
+    </points>
+    <box label="fish" source="manual" occluded="0" xtl="42.26" ytl="61.27" xbr="633.68" ybr="589.32" z_order="0">
+    </box>
+  </image>
+  <image id="14" name="108jpg-transformed_jpeg_jpg.rf.63f79458d31f52faddfef0c946d21d01.jpg" width="640" height="640">
+    <points label="fish" source="manual" occluded="0" points="557.64,345.36;517.51,290.44;511.17,270.38;381.27,183.78;173.21,291.50;63.38,278.83;96.12,331.63;76.05,385.49;175.33,342.19;367.54,419.29" z_order="0">
+    </points>
+    <box label="fish" source="manual" occluded="0" xtl="49.65" ytl="175.33" xbr="569.25" ybr="441.47" z_order="0">
+    </box>
+  </image>
+  <image id="15" name="109jpg-transformed_jpeg_jpg.rf.ee74c54bb96e0ec8cc973e0b6031e0e8.jpg" width="640" height="640">
+    <box label="fish" source="manual" occluded="0" xtl="91.89" ytl="214.40" xbr="594.60" ybr="457.31" z_order="0">
+    </box>
+    <points label="fish" source="manual" occluded="0" points="101.40,370.71;142.59,326.35;145.76,304.17;271.43,221.80;462.59,318.96;581.93,275.66;549.19,332.69;582.98,380.21;458.36,363.31;274.60,446.75" z_order="0">
+    </points>
+  </image>
+  <image id="16" name="110jpg-transformed_jpeg_jpg.rf.5008980f871579de5f00592ef750d323.jpg" width="640" height="640">
+    <points label="fish" source="manual" occluded="0" points="596.71,375.99;543.91,306.28;536.51,273.54;410.84,149.98;165.82,297.84;19.02,228.13;63.38,318.96;27.47,380.21;139.42,369.65;356.98,518.56" z_order="0">
+    </points>
+    <box label="fish" source="manual" occluded="0" xtl="10.57" ytl="133.08" xbr="616.78" ybr="536.51" z_order="0">
+    </box>
+  </image>
+  <image id="17" name="161jpg-transformed_jpeg_jpg.rf.1837d136fad6c71dd47108f98ad44e50.jpg" width="640" height="640">
+    <points label="fish" source="manual" occluded="0" points="46.48,399.22;87.67,355.92;95.06,328.46;245.03,234.47;460.48,342.19;591.43,272.49;587.21,369.65;587.21,460.48;464.70,411.89;264.04,480.54" z_order="0">
+    </points>
+    <box label="fish" source="manual" occluded="0" xtl="33.81" ytl="111.96" xbr="611.50" ybr="519.62" z_order="0">
+    </box>
+  </image>
+  <image id="18" name="164jpg-transformed_jpeg_jpg.rf.1b1b5184c151bc96b073d9aa89d101f4.jpg" width="640" height="640">
+    <points label="fish" source="manual" occluded="0" points="521.73,487.93;481.60,436.18;465.76,409.78;358.03,323.18;158.43,427.74;61.27,400.28;98.23,467.87;78.17,537.57;168.99,482.65;323.18,559.75" z_order="0">
+    </points>
+    <box label="fish" source="manual" occluded="0" xtl="49.65" ytl="314.73" xbr="542.85" ybr="568.20" z_order="0">
+    </box>
+  </image>
+  <image id="19" name="166jpg-transformed_jpeg_jpg.rf.881337ce7607b3f0635fa0a6b8c2f47a.jpg" width="640" height="640">
+    <points label="fish" source="manual" occluded="0" points="554.47,371.76;515.39,345.36;503.78,328.46;330.57,258.76;164.77,285.16;52.82,252.42;63.38,318.96;36.98,350.64;143.64,373.87;326.35,504.83" z_order="0">
+    </points>
+    <box label="fish" source="manual" occluded="0" xtl="26.42" ytl="233.41" xbr="574.53" ybr="521.73" z_order="0">
+    </box>
+  </image>
+  <image id="20" name="168jpg-transformed_jpeg_jpg.rf.de86ef4e3e26a5a97e6aeca3ffd39b61.jpg" width="640" height="640">
+    <points label="fish" source="manual" occluded="0" points="49.65,322.13;97.18,316.84;114.07,301.00;284.11,251.37;481.60,275.66;610.44,255.59;584.04,307.34;604.11,371.76;488.99,340.08;271.43,417.18" z_order="0">
+    </points>
+    <box label="fish" source="manual" occluded="0" xtl="40.15" ytl="238.69" xbr="629.45" ybr="429.85" z_order="0">
+    </box>
+  </image>
+  <image id="21" name="169jpg-transformed_jpeg_jpg.rf.9fd1ede4aa03094903e4858dc976c144.jpg" width="640" height="640">
+    <box label="fish" source="manual" occluded="0" xtl="21.14" ytl="57.04" xbr="636.84" ybr="582.98" z_order="0">
+    </box>
+    <points label="fish" source="manual" occluded="0" points="35.92,392.88;89.78,290.44;91.89,265.10;236.58,68.66;481.60,259.82;595.66,127.80;569.25,290.44;607.27,433.02;486.88,359.09;242.92,575.59" z_order="0">
+    </points>
+  </image>
+  <image id="22" name="170jpg-transformed_jpeg_jpg.rf.1e322441a0c687368540221ef232d1b7.jpg" width="640" height="640">
+    <box label="fish" source="manual" occluded="0" xtl="19.05" ytl="44.40" xbr="640.00" ybr="565.06" z_order="0">
+    </box>
+    <points label="fish" source="manual" occluded="0" points="28.55,389.74;88.75,313.70;88.75,276.74;239.78,127.83;474.23,312.65;618.92,237.66;588.29,369.68;619.97,499.58;480.57,404.53;230.27,552.38" z_order="0">
+    </points>
+  </image>
+  <image id="23" name="171jpg-transformed_jpeg_jpg.rf.77aa047f25b23439fbc26db68d4ca8b8.jpg" width="640" height="640">
+    <points label="fish" source="manual" occluded="0" points="44.40,324.26;75.02,303.14;95.09,283.08;276.74,201.76;460.50,283.08;556.61,178.52;533.37,291.52;627.37,348.55;462.61,353.84;258.79,446.77" z_order="0">
+    </points>
+    <box label="fish" source="manual" occluded="0" xtl="29.61" ytl="165.85" xbr="640.00" ybr="477.40" z_order="0">
+    </box>
+  </image>
+  <image id="24" name="173jpg-transformed_jpeg_jpg.rf.b39616e0f9b307b8f941193a0b305a71.jpg" width="640" height="640">
+    <points label="fish" source="manual" occluded="0" points="43.34,341.16;72.91,323.21;95.09,303.14;276.74,234.50;479.51,304.20;606.24,265.12;576.67,339.05;590.40,416.15;476.34,369.68;257.73,420.37" z_order="0">
+    </points>
+    <box label="fish" source="manual" occluded="0" xtl="30.67" ytl="175.35" xbr="615.75" ybr="492.18" z_order="0">
+    </box>
+  </image>
+  <image id="25" name="179jpg-transformed_jpeg_jpg.rf.593dc4495ffed622bca1b47db597d521.jpg" width="640" height="640">
+    <points label="fish" source="manual" occluded="0" points="54.96,351.72;83.47,327.43;97.20,314.76;294.69,191.19;480.57,278.85;569.28,236.61;587.23,335.88;560.83,421.43;471.06,361.23;280.96,426.71" z_order="0">
+    </points>
+    <box label="fish" source="manual" occluded="0" xtl="39.12" ytl="145.78" xbr="596.74" ybr="484.79" z_order="0">
+    </box>
+  </image>
+  <image id="26" name="180jpg-transformed_jpeg_jpg.rf.90e8ee597cdc0b1e626c25096f644ac0.jpg" width="640" height="640">
+    <points label="fish" source="manual" occluded="0" points="583.01,298.92;549.21,276.74;533.37,258.79;358.06,200.70;142.61,282.02;43.34,265.12;40.17,333.77;54.96,374.96;144.73,330.60;382.35,431.99" z_order="0">
+    </points>
+    <box label="fish" source="manual" occluded="0" xtl="33.84" ytl="147.89" xbr="597.80" ybr="456.28" z_order="0">
+    </box>
+  </image>
+  <image id="27" name="187jpg-transformed_jpeg_jpg.rf.69b971330ad59d98a19dbcdc614a318b.jpg" width="640" height="640">
+    <points label="fish" source="manual" occluded="0" points="37.00,340.11;90.86,280.96;104.59,264.07;244.00,171.13;486.90,289.41;616.81,293.64;573.51,352.78;602.02,439.38;479.51,361.23;285.19,454.17" z_order="0">
+    </points>
+    <box label="fish" source="manual" occluded="0" xtl="26.44" ytl="159.51" xbr="630.53" ybr="481.62" z_order="0">
+    </box>
+  </image>
+  <image id="28" name="190jpg-6GzWEm8RT-transformed_jpeg_jpg.rf.3ddda4c4cd3c3319fc89fc9ffa858f55.jpg" width="640" height="640">
+    <points label="fish" source="manual" occluded="0" points="42.28,384.46;97.20,307.37;103.54,288.36;266.18,160.57;492.18,308.42;609.41,279.91;575.62,367.56;596.74,472.12;482.68,382.35;250.34,494.30" z_order="0">
+    </points>
+    <box label="fish" source="manual" occluded="0" xtl="27.50" ytl="137.33" xbr="618.92" ybr="502.75" z_order="0">
+    </box>
+  </image>
+  <image id="29" name="196jpg-transformed_jpeg_jpg.rf.8a94b911ca8a68b4b5546f9de4fd9d38.jpg" width="640" height="640">
+    <points label="fish" source="manual" occluded="0" points="40.17,351.72;91.92,302.09;106.71,285.19;294.69,217.60;511.19,276.74;619.97,213.37;596.74,331.66;614.69,435.16;504.86,360.17;279.91,437.27" z_order="0">
+    </points>
+    <box label="fish" source="manual" occluded="0" xtl="11.66" ytl="146.84" xbr="635.82" ybr="471.06" z_order="0">
+    </box>
+  </image>
+  <image id="30" name="197jpg-transformed_jpeg_jpg.rf.486c53d3a0536c38d0464eb961dca73d.jpg" width="640" height="640">
+    <points label="fish" source="manual" occluded="0" points="44.40,341.16;100.37,271.46;106.71,247.17;247.17,157.40;482.68,296.81;614.69,239.78;578.79,332.71;612.58,414.03;480.57,361.23;264.07,433.04" z_order="0">
+    </points>
+    <box label="fish" source="manual" occluded="0" xtl="28.55" ytl="146.84" xbr="625.25" ybr="445.72" z_order="0">
+    </box>
+  </image>
+  <image id="31" name="204jpg-transformed_jpeg_jpg.rf.f624b6415d79a8eb1c15cf076d7fd6c8.jpg" width="640" height="640">
+    <points label="fish" source="manual" occluded="0" points="30.67,374.96;81.36,323.21;94.03,293.64;297.86,185.91;497.47,303.14;614.69,180.63;597.80,357.00;619.97,518.59;492.18,454.17;259.84,555.55" z_order="0">
+    </points>
+    <box label="fish" source="manual" occluded="0" xtl="13.77" ytl="51.79" xbr="637.93" ybr="575.62" z_order="0">
+    </box>
+  </image>
+  <image id="32" name="210jpg-transformed_jpeg_jpg.rf.125536cf793f6ddd047723bc6381c7eb.jpg" width="640" height="640">
+    <box label="fish" source="manual" occluded="0" xtl="15.88" ytl="73.97" xbr="609.41" ybr="541.82" z_order="0">
+    </box>
+    <points label="fish" source="manual" occluded="0" points="596.74,359.12;557.66,330.60;549.21,314.76;354.89,196.48;159.51,264.07;34.89,175.35;86.64,304.20;23.27,452.05;155.29,336.94;367.56,438.32" z_order="0">
+    </points>
+  </image>
+  <image id="33" name="214jpg-transformed_jpeg_jpg.rf.9a095b059d2f7cbcdd0286b89a427ac5.jpg" width="640" height="640">
+    <points label="fish" source="manual" occluded="0" points="569.28,323.21;535.49,304.20;517.53,292.58;327.43,210.20;150.01,283.08;51.79,238.72;99.31,322.15;48.62,411.92;163.74,355.95;355.95,437.27" z_order="0">
+    </points>
+    <box label="fish" source="manual" occluded="0" xtl="32.78" ytl="150.01" xbr="590.40" ybr="489.02" z_order="0">
+    </box>
+  </image>
+  <image id="34" name="215jpg-transformed_jpeg_jpg.rf.e48e4b0247fb4a6cc19d9b6bab6e9577.jpg" width="640" height="640">
+    <points label="fish" source="manual" occluded="0" points="39.12,359.12;96.15,259.84;102.48,220.77;241.89,78.19;480.57,313.70;595.68,333.77;576.67,424.59;597.80,569.28;481.62,433.04;261.95,566.11" z_order="0">
+    </points>
+    <box label="fish" source="manual" occluded="0" xtl="23.27" ytl="52.84" xbr="623.14" ybr="600.96" z_order="0">
+    </box>
+  </image>
+  <image id="35" name="219jpg-transformed_jpeg_jpg.rf.f31f93f849ed0c666c58fc5822fbed61.jpg" width="640" height="640">
+    <points label="fish" source="manual" occluded="0" points="552.38,331.66;510.14,282.02;494.30,251.39;362.28,191.19;170.07,306.31;46.51,270.40;85.58,333.77;58.13,385.52;174.30,362.28;365.45,420.37" z_order="0">
+    </points>
+    <box label="fish" source="manual" occluded="0" xtl="31.72" ytl="176.41" xbr="572.45" ybr="433.04" z_order="0">
+    </box>
+  </image>
+  <image id="36" name="222jpg-transformed_jpeg_jpg.rf.160d358daacf829bfce1d7898626b4ad.jpg" width="640" height="640">
+    <points label="fish" source="manual" occluded="0" points="589.35,349.61;552.38,331.66;533.37,310.53;348.55,231.33;159.51,292.58;38.06,289.41;69.74,352.78;48.62,407.70;154.23,390.80;352.78,454.17" z_order="0">
+    </points>
+    <box label="fish" source="manual" occluded="0" xtl="14.83" ytl="210.20" xbr="613.64" ybr="476.34" z_order="0">
+    </box>
+  </image>
+  <image id="37" name="224jpg-transformed_jpeg_jpg.rf.def2d45cdcc377d358ad55df5a77d3ba.jpg" width="640" height="640">
+    <points label="fish" source="manual" occluded="0" points="604.13,339.05;558.72,310.53;546.05,289.41;364.40,211.26;145.78,280.96;35.95,217.60;58.13,336.94;40.17,429.87;154.23,368.62;378.13,435.16" z_order="0">
+    </points>
+    <box label="fish" source="manual" occluded="0" xtl="21.16" ytl="182.75" xbr="618.92" ybr="454.17" z_order="0">
+    </box>
+  </image>
+  <image id="38" name="229jpg-transformed_jpeg_jpg.rf.24ffe1a37538b1e2cef24c892df2527f.jpg" width="640" height="640">
+    <points label="fish" source="manual" occluded="0" points="33.83,322.15;62.35,307.37;86.64,284.13;285.19,163.74;489.02,274.63;611.52,194.36;559.78,334.83;612.58,472.12;475.29,355.95;259.84,475.29" z_order="0">
+    </points>
+    <box label="fish" source="manual" occluded="0" xtl="24.33" ytl="83.47" xbr="626.31" ybr="516.48" z_order="0">
+    </box>
+  </image>
+  <image id="39" name="232jpg-transformed_jpeg_jpg.rf.c9bfdfbda41081c4eb255dfa6807f4eb.jpg" width="640" height="640">
+    <points label="fish" source="manual" occluded="0" points="20.11,393.97;61.29,362.28;75.02,347.50;269.35,268.29;499.58,321.10;625.25,280.96;589.35,360.17;616.81,438.32;493.24,399.25;263.01,443.60" z_order="0">
+    </points>
+    <box label="fish" source="manual" occluded="0" xtl="11.66" ytl="238.72" xbr="636.87" ybr="471.06" z_order="0">
+    </box>
+  </image>
+  <image id="40" name="246jpg-transformed_jpeg_jpg.rf.b5a8838191e19cc76dc6ea23ea29fdda.jpg" width="640" height="640">
+    <points label="fish" source="manual" occluded="0" points="90.87,331.66;134.17,278.85;141.56,264.07;252.45,196.48;455.22,318.98;584.07,316.87;546.05,349.61;575.62,369.68;463.67,368.62;252.45,437.27" z_order="0">
+    </points>
+    <box label="fish" source="manual" occluded="0" xtl="73.97" ytl="183.80" xbr="594.63" ybr="454.17" z_order="0">
+    </box>
+  </image>
+  <image id="41" name="247jpg-transformed_jpeg_jpg.rf.daa097be026e0f15832b30e07fcd98d4.jpg" width="640" height="640">
+    <points label="fish" source="manual" occluded="0" points="513.31,369.68;489.02,327.43;471.06,321.10;344.33,207.04;182.75,266.18;101.43,203.87;145.78,282.02;70.80,303.14;190.14,320.04;335.88,427.76" z_order="0">
+    </points>
+    <box label="fish" source="manual" occluded="0" xtl="61.29" ytl="147.89" xbr="525.98" ybr="439.38" z_order="0">
+    </box>
+  </image>
+  <image id="42" name="3-13_jpg.rf.8a25a6597fee2783346658efbd8f03d5.jpg" width="640" height="640">
+    <points label="fish" source="manual" occluded="0" points="446.77,296.81;403.47,226.05;387.63,221.82;295.75,198.59;133.11,290.47;82.42,250.34;86.64,314.76;61.29,395.02;137.33,333.77;307.37,364.40" z_order="0">
+    </points>
+    <box label="fish" source="manual" occluded="0" xtl="51.79" ytl="181.69" xbr="471.06" ybr="408.75" z_order="0">
+    </box>
+  </image>
+  <image id="43" name="3-18_jpg.rf.595487c4ba5690f149626d02231506a1.jpg" width="640" height="640">
+    <points label="fish" source="manual" occluded="0" points="188.03,449.94;223.93,395.02;229.21,354.89;324.26,228.16;496.41,268.29;594.63,151.06;567.17,273.57;618.92,373.90;513.31,316.87;369.68,449.94" z_order="0">
+    </points>
+    <box label="fish" source="manual" occluded="0" xtl="176.41" ytl="142.61" xbr="640.00" ybr="504.86" z_order="0">
+    </box>
+  </image>
+  <image id="44" name="3-28_jpg.rf.e3b517919dd77476814aa0bf2257f9f1.jpg" width="640" height="640">
+    <points label="fish" source="manual" occluded="0" points="504.86,315.82;447.83,305.25;426.71,293.64;325.32,256.67;150.01,344.33;51.79,302.09;72.91,373.90;57.07,437.27;155.29,401.36;334.83,407.70" z_order="0">
+    </points>
+    <box label="fish" source="manual" occluded="0" xtl="43.34" ytl="152.12" xbr="517.53" ybr="479.51" z_order="0">
+    </box>
+  </image>
+  <image id="45" name="3-29_jpg.rf.3feceebdf9099c42c7940d0c1b2b6345.jpg" width="640" height="640">
+    <points label="fish" source="manual" occluded="0" points="577.73,297.86;509.08,279.91;489.02,255.62;344.33,221.82;150.01,316.87;47.56,285.19;86.64,363.34;61.29,453.11;158.46,383.41;361.23,398.19" z_order="0">
+    </points>
+    <box label="fish" source="manual" occluded="0" xtl="38.06" ytl="95.09" xbr="610.47" ybr="498.52" z_order="0">
+    </box>
+  </image>
+  <image id="46" name="3-31_jpg.rf.4d19104876e306681e68eb8aa33d066a.jpg" width="640" height="640">
+    <points label="fish" source="manual" occluded="0" points="87.70,248.22;145.78,237.66;177.47,223.93;346.44,247.17;476.34,371.79;570.34,357.00;535.49,409.81;547.10,496.41;472.12,422.48;266.18,390.80" z_order="0">
+    </points>
+    <box label="fish" source="manual" occluded="0" xtl="70.80" ytl="179.58" xbr="596.74" ybr="515.42" z_order="0">
+    </box>
+  </image>
+  <image id="47" name="3-4_jpg.rf.52a5dd813b3bd131e7054c7c681ea6d6.jpg" width="640" height="640">
+    <points label="fish" source="manual" occluded="0" points="345.39,227.10;364.40,238.72;390.80,226.05;467.89,257.73;533.37,420.37;575.62,412.98;547.10,462.61;524.92,544.99;517.53,444.66;402.42,369.68" z_order="0">
+    </points>
+    <box label="fish" source="manual" occluded="0" xtl="327.43" ytl="200.70" xbr="599.91" ybr="572.45" z_order="0">
+    </box>
+  </image>
+  <image id="48" name="3-5_jpg.rf.545d3174f9a6d410cc813a6b08777936.jpg" width="640" height="640">
+    <points label="fish" source="manual" occluded="0" points="506.97,354.89;470.01,283.08;459.45,251.39;361.23,106.71;185.91,158.46;124.66,24.33;118.32,158.46;88.75,265.12;173.24,207.04;315.82,357.00" z_order="0">
+    </points>
+    <box label="fish" source="manual" occluded="0" xtl="82.42" ytl="11.66" xbr="527.04" ybr="389.74" z_order="0">
+    </box>
+  </image>
+  <image id="49" name="3-8_jpg.rf.b4b53637cb81bc5800f038f3e3482cfb.jpg" width="640" height="640">
+    <points label="fish" source="manual" occluded="0" points="572.45,403.47;529.15,363.34;515.42,344.33;369.68,267.23;197.53,391.85;68.69,305.25;127.83,438.32;115.16,558.72;202.81,447.83;400.30,481.62" z_order="0">
+    </points>
+    <box label="fish" source="manual" occluded="0" xtl="44.40" ytl="254.56" xbr="591.46" ybr="567.17" z_order="0">
+    </box>
+  </image>
+  <image id="50" name="3-9_jpg.rf.75021fee03d9128aefb0e091315d41ec.jpg" width="640" height="640">
+    <points label="fish" source="manual" occluded="0" points="323.21,254.56;315.82,247.17;312.65,239.78;276.74,195.42;224.99,204.92;196.48,161.62;205.98,209.15;185.91,248.22;226.05,221.82;272.51,269.35" z_order="0">
+    </points>
+    <box label="fish" source="manual" occluded="0" xtl="175.35" ytl="144.73" xbr="340.11" ybr="288.36" z_order="0">
+    </box>
+  </image>
+  <image id="51" name="305jpg-transformed_jpeg_jpg.rf.1d995a613c15a80b3953c1ff55c7796b.jpg" width="640" height="640">
+    <points label="fish" source="manual" occluded="0" points="579.84,361.23;547.10,336.94;530.20,310.53;337.99,204.92;160.57,293.64;38.06,204.92;97.20,341.16;47.56,477.40;165.85,362.28;373.90,474.23" z_order="0">
+    </points>
+    <box label="fish" source="manual" occluded="0" xtl="29.61" ytl="78.19" xbr="597.80" ybr="591.46" z_order="0">
+    </box>
+  </image>
+  <image id="52" name="307jpg-transformed_jpeg_jpg.rf.cfb8f11bf32a2d0ef45e6ed483021e18.jpg" width="640" height="640">
+    <points label="fish" source="manual" occluded="0" points="597.80,306.31;542.88,297.86;521.76,277.80;347.50,192.25;141.56,312.65;35.95,292.58;48.62,352.78;43.34,426.71;162.68,369.68;341.16,417.20" z_order="0">
+    </points>
+    <box label="fish" source="manual" occluded="0" xtl="23.27" ytl="182.75" xbr="617.86" ybr="462.61" z_order="0">
+    </box>
+  </image>
+  <image id="53" name="308jpg-transformed_jpeg_jpg.rf.73a1a8be3292f564c325196984794dcb.jpg" width="640" height="640">
+    <points label="fish" source="manual" occluded="0" points="61.29,330.60;86.64,306.31;116.21,289.41;307.37,203.87;509.08,270.40;586.18,198.59;590.40,314.76;597.80,443.60;504.86,365.45;296.81,459.45" z_order="0">
+    </points>
+    <box label="fish" source="manual" occluded="0" xtl="41.23" ytl="166.90" xbr="625.25" ybr="475.29" z_order="0">
+    </box>
+  </image>
+  <image id="54" name="370jpg-81dPlLvZw-transformed_jpeg_jpg.rf.ad4a4bf2e4703f10a844b073df81c408.jpg" width="640" height="640">
+    <points label="fish" source="manual" occluded="0" points="585.12,380.24;560.83,360.17;547.10,335.88;382.35,265.12;154.23,339.05;35.95,314.76;118.32,364.40;40.17,417.20;165.85,377.07;396.08,411.92" z_order="0">
+    </points>
+    <box label="fish" source="manual" occluded="0" xtl="23.27" ytl="217.60" xbr="607.30" ybr="436.21" z_order="0">
+    </box>
+  </image>
+  <image id="55" name="372jpg-B04tOkvgp-transformed_jpeg_jpg.rf.f9ab13b9d5400af8b476360d4560d574.jpg" width="640" height="640">
+    <box label="fish" source="manual" occluded="0" xtl="54.96" ytl="145.78" xbr="612.58" ybr="496.41" z_order="0">
+    </box>
+    <points label="fish" source="manual" occluded="0" points="64.46,321.10;94.03,308.42;116.21,293.64;285.19,193.31;458.39,291.52;579.84,233.44;487.96,334.83;593.57,449.94;447.83,369.68;255.62,448.88" z_order="0">
+    </points>
+  </image>
+  <image id="56" name="375jpg-6pYpoz5-W-transformed_jpeg_jpg.rf.f49f3f2bb7c105179a30d6d3ee88f3b3.jpg" width="640" height="640">
+    <points label="fish" source="manual" occluded="0" points="49.68,348.55;89.81,318.98;113.04,302.09;274.63,251.39;495.35,293.64;580.90,278.85;603.08,318.98;599.91,353.84;493.24,358.06;256.67,417.20" z_order="0">
+    </points>
+    <box label="fish" source="manual" occluded="0" xtl="35.95" ytl="237.66" xbr="618.92" ybr="426.71" z_order="0">
+    </box>
+  </image>
+  <image id="57" name="376jpg-CfJJBPXJx-transformed_jpeg_jpg.rf.a1a594a2dd9ef64b1048dc0a1a3a0feb.jpg" width="640" height="640">
+    <box label="fish" source="manual" occluded="0" xtl="21.16" ytl="247.17" xbr="611.52" ybr="448.88" z_order="0">
+    </box>
+    <points label="fish" source="manual" occluded="0" points="32.78,337.99;67.63,327.43;79.25,321.10;268.29,274.63;502.75,320.04;587.23,254.56;551.33,340.11;600.96,411.92;498.52,371.79;276.74,441.49" z_order="0">
+    </points>
+  </image>
+  <image id="58" name="4-10_jpg.rf.fe2cdd8d22fe4d5a9a842bd4af1f76c2.jpg" width="640" height="640">
+    <box label="fish" source="manual" occluded="0" xtl="239.78" ytl="165.85" xbr="590.40" ybr="461.56" z_order="0">
+    </box>
+    <points label="fish" source="manual" occluded="0" points="256.67,264.07;314.76,213.37;316.87,196.48;424.59,210.20;508.03,323.21;579.84,327.43;557.66,379.18;564.00,446.77;492.18,382.35;395.02,396.08" z_order="0">
+    </points>
+  </image>
+  <image id="59" name="4-8_jpg.rf.a5e572d32509f4f4e0c5f786107e3b9e.jpg" width="640" height="640">
+    <box label="fish" source="manual" occluded="0" xtl="86.64" ytl="188.03" xbr="371.79" ybr="429.87" z_order="0">
+    </box>
+    <points label="fish" source="manual" occluded="0" points="326.38,247.17;289.41,226.05;286.24,204.92;230.27,250.34;173.24,316.87;103.54,283.08;135.22,336.94;119.38,416.15;182.75,348.55;267.23,339.05" z_order="0">
+    </points>
+  </image>
+  <image id="60" name="468jpg-transformed_jpeg_jpg.rf.809c90a97072454cf938acc16de57366.jpg" width="640" height="640">
+    <points label="fish" source="manual" occluded="0" points="23.27,345.39;64.46,317.93;86.64,302.09;292.58,223.93;491.13,290.47;606.24,201.76;589.35,305.25;607.30,416.15;517.53,361.23;284.13,449.94" z_order="0">
+    </points>
+    <box label="fish" source="manual" occluded="0" xtl="14.83" ytl="145.78" xbr="634.76" ybr="504.86" z_order="0">
+    </box>
+  </image>
+  <image id="61" name="475jpg-transformed_jpeg_jpg.rf.109d0d3938d3aa4bcbc261cfc0bebefe.jpg" width="640" height="640">
+    <points label="fish" source="manual" occluded="0" points="573.50,315.82;521.76,310.53;505.91,291.52;348.55,258.79;142.61,307.37;35.95,272.51;87.70,324.26;38.06,392.91;141.56,344.33;355.95,411.92" z_order="0">
+    </points>
+    <box label="fish" source="manual" occluded="0" xtl="20.11" ytl="230.27" xbr="590.40" ybr="433.04" z_order="0">
+    </box>
+  </image>
+  <image id="62" name="481jpg-transformed_jpeg_jpg.rf.3425be5e1d386ea45924a67b693b36f1.jpg" width="640" height="640">
+    <points label="fish" source="manual" occluded="0" points="593.57,318.98;566.11,302.09;538.65,285.19;354.89,238.72;124.66,306.31;35.95,219.71;65.52,318.98;38.06,412.98;118.32,321.10;384.46,418.26" z_order="0">
+    </points>
+    <box label="fish" source="manual" occluded="0" xtl="24.33" ytl="204.92" xbr="613.64" ybr="439.38" z_order="0">
+    </box>
+  </image>
+  <image id="63" name="482jpg-transformed_jpeg_jpg.rf.a3409d6d02af5c67d763318381cf40da.jpg" width="640" height="640">
+    <points label="fish" source="manual" occluded="0" points="50.73,235.55;85.58,235.55;91.92,217.60;287.30,166.90;504.86,246.11;602.02,234.50;544.99,309.48;572.45,445.72;475.29,306.31;263.01,340.11" z_order="0">
+    </points>
+    <box label="fish" source="manual" occluded="0" xtl="39.12" ytl="155.29" xbr="611.52" ybr="461.56" z_order="0">
+    </box>
+  </image>
+  <image id="64" name="48jpg-transformed_jpeg_jpg.rf.1e512b1331357ca8a37b90adb8a01074.jpg" width="640" height="640">
+    <box label="fish" source="manual" occluded="0" xtl="23.27" ytl="63.41" xbr="626.31" ybr="532.32" z_order="0">
+    </box>
+    <points label="fish" source="manual" occluded="0" points="30.67,382.35;99.31,304.20;108.82,254.56;268.29,128.88;476.34,286.24;608.36,242.94;571.39,351.72;602.02,466.84;471.06,383.41;260.90,523.87" z_order="0">
+    </points>
+  </image>
+  <image id="65" name="51jpg-transformed_jpeg_jpg.rf.384390bef00a2ef5e6e0dfe1a1f2922c.jpg" width="640" height="640">
+    <box label="fish" source="manual" occluded="0" xtl="44.40" ytl="138.39" xbr="634.76" ybr="420.37" z_order="0">
+    </box>
+    <points label="fish" source="manual" occluded="0" points="58.13,310.54;111.99,254.56;132.05,230.27;271.46,150.01;485.85,268.29;621.03,214.43;583.01,290.47;616.81,369.68;495.35,318.98;279.91,408.75" z_order="0">
+    </points>
+  </image>
+  <image id="66" name="54jpg-transformed_jpeg_jpg.rf.fc6512746e6d185d819ab7bf0ff6b00d.jpg" width="640" height="640">
+    <points label="fish" source="manual" occluded="0" points="576.67,389.74;527.04,306.31;503.80,289.41;381.29,204.92;176.41,323.21;49.68,217.60;95.09,353.84;64.46,478.46;174.30,386.57;382.35,471.06" z_order="0">
+    </points>
+    <box label="fish" source="manual" occluded="0" xtl="35.95" ytl="192.25" xbr="592.51" ybr="492.18" z_order="0">
+    </box>
+  </image>
+  <image id="67" name="565jpg-transformed_jpeg_jpg.rf.39f9b2c0e587eac211b1c7e4d46f85fb.jpg" width="640" height="640">
+    <box label="fish" source="manual" occluded="0" xtl="43.34" ytl="195.42" xbr="590.40" ybr="454.16" z_order="0">
+    </box>
+    <points label="fish" source="manual" occluded="0" points="51.79,308.42;100.37,303.14;109.87,288.36;252.45,211.26;475.29,294.69;580.90,242.94;534.43,306.31;581.95,350.67;475.29,325.32;247.17,440.44" z_order="0">
+    </points>
+  </image>
+  <image id="68" name="569jpg-transformed_jpeg_jpg.rf.63b93aa5a7c22505f5775b5eaa5af774.jpg" width="640" height="640">
+    <box label="fish" source="manual" occluded="0" xtl="20.11" ytl="196.48" xbr="635.82" ybr="491.13" z_order="0">
+    </box>
+    <points label="fish" source="manual" occluded="0" points="621.03,353.83;589.35,335.88;568.22,313.70;355.95,210.20;143.67,307.37;27.50,318.98;78.19,355.95;24.33,412.98;161.62,374.96;376.01,475.29" z_order="0">
+    </points>
+  </image>
+  <image id="69" name="571jpg-transformed_jpeg_jpg.rf.9330b919f7c2b41edddbaf5115835a54.jpg" width="640" height="640">
+    <points label="fish" source="manual" occluded="0" points="589.35,327.43;552.38,336.94;532.32,315.82;349.61,247.17;159.51,259.84;52.84,172.18;84.53,279.91;42.28,392.91;145.78,336.94;366.51,445.72" z_order="0">
+    </points>
+    <box label="fish" source="manual" occluded="0" xtl="32.78" ytl="132.05" xbr="602.02" ybr="466.84" z_order="0">
+    </box>
+  </image>
+  <image id="70" name="575jpg-transformed_jpeg_jpg.rf.4f1347026533c27bf4143385a06e563c.jpg" width="640" height="640">
+    <box label="fish" source="manual" occluded="0" xtl="6.38" ytl="162.68" xbr="633.70" ybr="424.59" z_order="0">
+    </box>
+    <points label="fish" source="manual" occluded="0" points="624.20,352.78;592.51,331.66;576.67,315.82;380.24,218.65;101.43,294.69;17.99,183.80;51.79,301.03;17.99,404.53;95.09,307.37;386.57,403.47" z_order="0">
+    </points>
+  </image>
+  <image id="71" name="60jpg-transformed_jpeg_jpg.rf.70dc07b1e9ac5a59d53e4855b9c79a67.jpg" width="640" height="640">
+    <points label="fish" source="manual" occluded="0" points="41.23,353.83;96.15,299.97;111.99,274.63;278.85,192.25;483.74,298.92;611.52,236.61;579.84,332.71;602.02,428.82;483.74,362.28;279.91,467.89" z_order="0">
+    </points>
+    <box label="fish" source="manual" occluded="0" xtl="29.61" ytl="174.30" xbr="615.75" ybr="478.46" z_order="0">
+    </box>
+  </image>
+  <image id="72" name="61jpg-transformed_jpeg_jpg.rf.b2ccede1626a4cf17a7a1f26e986fc9c.jpg" width="640" height="640">
+    <points label="fish" source="manual" occluded="0" points="569.28,369.68;525.98,309.48;508.03,283.08;383.41,171.13;175.35,268.29;48.62,263.01;82.42,306.31;56.01,365.45;173.24,339.05;374.96,462.61" z_order="0">
+    </points>
+    <box label="fish" source="manual" occluded="0" xtl="31.72" ytl="148.95" xbr="589.35" ybr="472.12" z_order="0">
+    </box>
+  </image>
+  <image id="73" name="66jpg-transformed_jpeg_jpg.rf.67801bbd60a34e253d7c412ae30d2919.jpg" width="640" height="640">
+    <points label="fish" source="manual" occluded="0" points="101.43,317.93;154.23,280.96;169.02,257.73;267.23,186.97;437.27,293.64;546.05,324.26;510.14,348.55;519.64,419.31;437.27,341.16;276.74,414.03" z_order="0">
+    </points>
+    <box label="fish" source="manual" occluded="0" xtl="90.86" ytl="173.24" xbr="556.61" ybr="440.44" z_order="0">
+    </box>
+  </image>
+  <image id="74" name="67jpg-transformed_jpeg_jpg.rf.3546788e4556ee30deeea8727bde8ee1.jpg" width="640" height="640">
+    <points label="fish" source="manual" occluded="0" points="568.22,411.92;525.98,331.66;517.53,306.31;383.41,176.41;172.18,285.19;44.40,238.72;80.30,322.15;48.62,426.71;167.96,357.00;353.84,474.23" z_order="0">
+    </points>
+    <box label="fish" source="manual" occluded="0" xtl="27.50" ytl="163.74" xbr="580.90" ybr="500.63" z_order="0">
+    </box>
+  </image>
+  <image id="75" name="72jpg-transformed_jpeg_jpg.rf.1225def84263a2c829efab666ec99927.jpg" width="640" height="640">
+    <box label="fish" source="manual" occluded="0" xtl="95.09" ytl="87.70" xbr="470.01" ybr="289.41" z_order="0">
+    </box>
+    <points label="fish" source="manual" occluded="0" points="456.28,223.93;429.87,182.75;420.37,158.46;327.43,97.20;193.31,165.85;109.87,131.00;128.88,182.75;118.32,234.50;196.48,207.04;322.15,282.02" z_order="0">
+    </points>
+    <points label="fish" source="manual" occluded="0" points="148.95,466.84;179.58,426.71;193.31,416.15;282.02,359.12;417.20,423.54;505.91,391.85;490.07,437.27;504.86,496.41;419.31,464.73;268.29,539.71" z_order="0">
+    </points>
+    <box label="fish" source="manual" occluded="0" xtl="137.33" ytl="349.61" xbr="520.70" ybr="550.27" z_order="0">
+    </box>
+  </image>
+  <image id="76" name="74jpg-transformed_jpeg_jpg.rf.e24d89ac3e84f930abfe649a82b5f937.jpg" width="640" height="640">
+    <points label="fish" source="manual" occluded="0" points="42.28,351.72;97.20,296.81;121.49,268.29;255.62,179.58;466.84,295.75;594.63,268.29;566.11,342.22;593.57,417.20;471.06,361.23;264.07,454.17" z_order="0">
+    </points>
+    <box label="fish" source="manual" occluded="0" xtl="31.72" ytl="162.68" xbr="608.36" ybr="461.56" z_order="0">
+    </box>
+  </image>
+  <image id="77" name="76jpg-transformed_jpeg_jpg.rf.2d0274936def910646581d130c9d2b52.jpg" width="640" height="640">
+    <points label="fish" source="manual" occluded="0" points="49.68,360.17;95.09,296.81;116.21,283.08;247.17,193.31;461.56,302.09;571.39,226.05;543.93,320.04;581.95,423.54;462.61,359.12;268.29,464.73" z_order="0">
+    </points>
+    <box label="fish" source="manual" occluded="0" xtl="35.95" ytl="179.58" xbr="597.80" ybr="474.23" z_order="0">
+    </box>
+  </image>
+  <image id="78" name="83jpg-transformed_jpeg_jpg.rf.e54d69cc53197f05e79a5fd2e752f1b9.jpg" width="640" height="640">
+    <points label="fish" source="manual" occluded="0" points="578.79,368.62;533.37,280.96;519.64,253.51;379.18,141.56;175.35,305.25;52.84,242.94;81.36,372.84;75.02,500.63;178.52,378.13;381.29,509.08" z_order="0">
+    </points>
+    <box label="fish" source="manual" occluded="0" xtl="37.00" ytl="90.86" xbr="595.68" ybr="573.51" z_order="0">
+    </box>
+  </image>
+  <image id="79" name="88jpg-transformed_jpeg_jpg.rf.951344a982b4a1bab40bcc8ae24eada0.jpg" width="640" height="640">
+    <points label="fish" source="manual" occluded="0" points="73.97,322.15;109.87,259.84;135.22,242.94;267.23,158.46;472.12,276.74;595.68,244.00;564.00,307.37;598.85,385.52;472.12,335.88;286.24,411.92" z_order="0">
+    </points>
+    <box label="fish" source="manual" occluded="0" xtl="62.35" ytl="150.01" xbr="610.47" ybr="430.93" z_order="0">
+    </box>
+  </image>
+  <image id="80" name="91jpg-transformed_jpeg_jpg.rf.420b69fd19fb8f8f2c98ba2f75dd67e3.jpg" width="640" height="640">
+    <points label="fish" source="manual" occluded="0" points="572.45,336.94;534.43,297.86;518.59,287.30;334.83,230.27;137.33,291.52;46.51,280.96;71.85,332.71;51.79,403.47;152.12,361.23;357.00,407.70" z_order="0">
+    </points>
+    <box label="fish" source="manual" occluded="0" xtl="35.95" ytl="221.82" xbr="606.24" ybr="420.37" z_order="0">
+    </box>
+  </image>
+  <image id="81" name="94jpg-transformed_jpeg_jpg.rf.09865b2ed16e248f83dc45b7f01033dd.jpg" width="640" height="640">
+    <points label="fish" source="manual" occluded="0" points="571.39,397.14;531.26,323.21;513.31,291.52;383.41,189.08;164.79,303.14;50.73,256.67;72.91,329.54;35.95,416.15;153.18,363.34;350.67,483.74" z_order="0">
+    </points>
+    <box label="fish" source="manual" occluded="0" xtl="27.50" ytl="180.63" xbr="598.85" ybr="500.63" z_order="0">
+    </box>
+  </image>
+  <image id="82" name="95jpg-transformed_jpeg_jpg.rf.3bf0fef1af8a9ae5b201673a75c90735.jpg" width="640" height="640">
+    <points label="fish" source="manual" occluded="0" points="101.43,373.90;128.88,307.37;146.84,275.68;274.63,188.03;438.32,313.70;546.05,354.89;515.42,373.90;547.10,439.38;440.44,380.24;273.57,454.17" z_order="0">
+    </points>
+    <box label="fish" source="manual" occluded="0" xtl="86.64" ytl="166.90" xbr="564.00" ybr="468.95" z_order="0">
+    </box>
+  </image>
+  <image id="83" name="97jpg-transformed_jpeg_jpg.rf.1eb2935742590062572b74870560ad8f.jpg" width="640" height="640">
+    <points label="fish" source="manual" occluded="0" points="103.54,405.58;154.23,369.68;167.96,344.33;269.35,288.36;475.29,358.06;598.85,362.28;573.51,391.85;594.63,419.31;485.85,402.42;275.68,473.18" z_order="0">
+    </points>
+    <box label="fish" source="manual" occluded="0" xtl="87.70" ytl="283.08" xbr="614.69" ybr="478.46" z_order="0">
+    </box>
+    <points label="fish" source="manual" occluded="0" points="107.76,220.77;159.51,179.58;177.47,155.29;299.97,102.48;479.51,188.03;589.35,179.58;566.11,201.76;597.80,241.89;479.51,231.33;312.65,293.64" z_order="0">
+    </points>
+    <box label="fish" source="manual" occluded="0" xtl="96.15" ytl="90.86" xbr="612.58" ybr="297.86" z_order="0">
+    </box>
+  </image>
+</annotations>
